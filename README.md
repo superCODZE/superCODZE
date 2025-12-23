@@ -6,7 +6,7 @@ I build clean, scalable, and efficient software solutions.
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Python, Django
 - **Programming:** C
-- **Tools & Environment:** Git, GitHub, Linux
+- **Tools & Environment:** Git, GitHub, Linux, Vscode, Intellij
 
 ## 🚀 What I Do
 - Develop full-stack web applications
