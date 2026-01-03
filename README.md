@@ -19,7 +19,7 @@ I build clean, scalable, and efficient software solutions.
 - Build production-ready applications
 - Learn new technologies and best practices
 
-## 📫 Contact
+## 
 Feel free to check my repositories and reach out!
 
 <!--
