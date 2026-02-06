@@ -6,12 +6,14 @@ I build clean, scalable, and efficient software solutions.
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Python, Django
 - **Programming:** C, java
+- **Modeling & Design:** UML diagrams (Use Case, Class, Sequence)
 - **Tools & Environment:** Git, GitHub, Linux, Vscode, Intellij
 
 ## 🚀 What I Do
 - Develop full-stack web applications
 - Create RESTful backends with Django
 - Build modern and responsive user interfaces with React
+- Design software systems using UML diagrams
 - Write clean, maintainable code
 
 ## 🎯 Goals
@@ -22,17 +24,3 @@ I build clean, scalable, and efficient software solutions.
 ## 
 Feel free to check my repositories and reach out!
 
-<!--
-**superCODZE/superCODZE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
