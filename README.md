@@ -5,7 +5,7 @@ I build clean, scalable, and efficient software solutions.
 ## 🛠️ Skills & Technologies
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Python, Django
-- **Programming:** C
+- **Programming:** C, java
 - **Tools & Environment:** Git, GitHub, Linux, Vscode, Intellij
 
 ## 🚀 What I Do
