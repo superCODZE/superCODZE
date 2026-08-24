@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm MAZOUZ ABDERRAHMANE</h1>
+<div align="center">
+
+<img src="cybersecurity_profile_banner" width="100%" />
+
+</div>
 <h3 align="left"> a student of computer science and interested in its various fields, focusing on web development. I strive to learn new skills and techniques and deliver better performance.</h3>
 
 
