@@ -1,9 +1,10 @@
 <div align="center">
-
-<img src="cybersecurity_profile_banner" width="100%" />
+<h1>Hello everyone</h1>
+<img src="cybersecurity_profile_banner.svg" width="100%" />
 
 </div>
-<h3 align="left"> a student of computer science and interested in its various fields, focusing on web development. I strive to learn new skills and techniques and deliver better performance.</h3>
+<br>
+<h3 align="left">I am a student of computer science and interested in its various fields, focusing on web development. I strive to learn new skills and techniques and deliver better performance.</h3>
 
 
 <p align="left">
