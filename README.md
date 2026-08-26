@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hello everyone</h1>
+<h1>Hello everyone 👋</h1>
 <img src="cybersecurity_profile_banner.svg" width="100%" />
 
 </div>
