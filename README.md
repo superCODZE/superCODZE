@@ -1,9 +1,21 @@
+
+
+
+
 <div align="center">
 
 <img src="cybersecurity_profile_banner.svg" width="100%" />
 
 </div>
 <br>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=27&duration=2500&pause=1000&color=19D7A9&background=04FFF400&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I+am+Mazouz+Abderrahmane;Computer+science+student;Web+developer;Backend+%2CFrontend+developer;Write+clean+code;Networking;Problame+solving;Loves+to+discover+and+learn" alt="Typing SVG" /></a>
+
+
+</div>
+
+
+
 <h3 align="left">I am a student of computer science and interested in its various fields, focusing on web development. I strive to learn new skills and techniques and deliver better performance.</h3>
 
 
@@ -34,6 +46,5 @@
   <a href="https://www.instagram.com/mazouz_abderrahmane1?igsh=Zmk4c2JseGJ4N2t3
 Highlights" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mazouz-abderrahmane-062807370?" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mazathomazigh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
-<br>
-<br>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=237A6E&reversal=true&rotate=360&descAlignY=96&descAlign=82&animation=fadeIn&section=footer&fontAlignY=85&fontAlign=68&textBg=false&strokeWidth=7" width="100%"/>
