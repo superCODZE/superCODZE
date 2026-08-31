@@ -34,3 +34,6 @@
   <a href="https://www.instagram.com/mazouz_abderrahmane1?igsh=Zmk4c2JseGJ4N2t3
 Highlights" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mazouz-abderrahmane-062807370?" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mazathomazigh@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
+<br>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=237A6E&reversal=true&rotate=360&descAlignY=96&descAlign=82&animation=fadeIn&section=footer&fontAlignY=85&fontAlign=68&textBg=false&strokeWidth=7" width="100%"/>
