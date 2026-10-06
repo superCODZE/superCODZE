@@ -16,7 +16,7 @@
 
 
 
-<h3 align="left">I am a student of computer science and interested in its various fields, focusing on web development. I strive to learn new skills and techniques and deliver better performance.</h3>
+<h3 align="left">I am a student of computer science and interested in its various fields, focusing on web development and network engineering. I strive to learn new skills and techniques and deliver better performance.</h3>
 
 
 <p align="left">
