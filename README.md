@@ -16,13 +16,15 @@
 
 
 
-<h3 align="left">I am a student of computer science and interested in its various fields, focusing on web development and network engineering. I strive to learn new skills and techniques and deliver better performance.</h3>
+<h3 align="center">computer science student passionate about web and software development. I have gained solid programming skills and a good understanding of modern web technologies. I am also interested in computer networks and how they operate, which gives me a broader perspective on the field of computer science. I am motivated, curious, and always looking to improve my skills and learn new technologies.
 
+</h3>
 
+<hr />
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=iso-c&logoColor=black" />
